@@ -1,3 +1,13 @@
+# simple job listing website using react and tailwind css
+<img width="1737" height="954" alt="image" src="https://github.com/user-attachments/assets/155c1a27-6c42-45b2-b334-1b5444d51fef" />
+
+## Applicants' dashboard
+<img width="1524" height="955" alt="image" src="https://github.com/user-attachments/assets/6c6184d9-62f1-4191-9372-51ea1a584808" />
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
